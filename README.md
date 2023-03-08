@@ -27,8 +27,7 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 <details>
  <summary><b>⚡Github and WakaTime Stats</b></summary>
  
-<!-- START_SECTION:waka -->
- 
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 </details>
