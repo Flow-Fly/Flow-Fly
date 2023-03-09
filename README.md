@@ -28,9 +28,9 @@ I am curious, I enjoy learning new things and it took me some time to get to the
  <summary><b>⚡Github and WakaTime Stats</b></summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,15 +60,15 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               10 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.28 % 
-CSS                      55 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.01 % 
-HTML                     47 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.08 % 
-Markdown                 38 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.93 % 
-INI                      12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.64 % 
+JavaScript               13 hrs 25 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.02 % 
+CSS                      1 hr 50 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.02 % 
+Markdown                 1 hr 14 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.71 % 
+HTML                     1 hr 1 min          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.58 % 
+INI                      12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.17 % 
 
 💻 Operating System: 
-Linux                    8 hrs 32 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.87 % 
-Windows                  4 hrs 37 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.13 % 
+Linux                    13 hrs 46 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   74.86 % 
+Windows                  4 hrs 37 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.14 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Python                   1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2023 19:16:25 UTC
+ Last Updated on 09/03/2023 08:26:29 UTC
 <!--END_SECTION:waka-->
  
 </details>
