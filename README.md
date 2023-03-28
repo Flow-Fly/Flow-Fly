@@ -28,19 +28,19 @@ I am curious, I enjoy learning new things and it took me some time to get to the
  <summary><b>⚡Github and WakaTime Stats</b></summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 67.9 kB Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2023
+> 🏆 112 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -88,7 +88,7 @@ Python                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2023 08:26:03 UTC
+ Last Updated on 28/03/2023 19:15:56 UTC
 <!--END_SECTION:waka-->
  
 </details>
