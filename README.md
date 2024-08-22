@@ -36,7 +36,7 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 
 > 📦 72.8 kB Used in GitHub's Storage 
  > 
-> 🏆 258 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,7 +86,7 @@ C                        2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 08:11:53 UTC
+ Last Updated on 22/08/2024 19:11:39 UTC
 <!--END_SECTION:waka-->
  
 </details>
