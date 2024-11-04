@@ -28,6 +28,8 @@ I am curious, I enjoy learning new things and it took me some time to get to the
  <summary><b>⚡Github and WakaTime Stats</b></summary>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
@@ -81,7 +83,7 @@ C                        2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2024 08:13:21 UTC
+ Last Updated on 04/11/2024 19:11:10 UTC
 <!--END_SECTION:waka-->
  
 </details>
