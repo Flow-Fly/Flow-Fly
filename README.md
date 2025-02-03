@@ -36,8 +36,6 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 
 > 📦 74.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -60,14 +58,14 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               6 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.46 % 
-JavaScript               33 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.36 % 
-JSON                     18 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.16 % 
-Prisma                   16 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.58 % 
-Bash                     7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.63 % 
+TypeScript               5 hrs 54 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.50 % 
+JavaScript               32 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.57 % 
+JSON                     18 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.23 % 
+Prisma                   16 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.71 % 
+Bash                     7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.69 % 
 
 💻 Operating System: 
-Mac                      7 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Mac                      7 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +85,7 @@ C                        2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 19:10:04 UTC
+ Last Updated on 03/02/2025 08:12:33 UTC
 <!--END_SECTION:waka-->
  
 </details>
