@@ -34,7 +34,7 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 
 **🐱 My GitHub Data** 
 
-> 📦 74.1 kB Used in GitHub's Storage 
+> 📦 74.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,7 +85,7 @@ C                        2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 19:09:28 UTC
+ Last Updated on 05/02/2025 08:12:03 UTC
 <!--END_SECTION:waka-->
  
 </details>
