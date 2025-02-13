@@ -36,8 +36,6 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 
 > 📦 74.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -87,7 +85,7 @@ C                        2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 08:12:12 UTC
+ Last Updated on 13/02/2025 19:10:20 UTC
 <!--END_SECTION:waka-->
  
 </details>
