@@ -34,7 +34,7 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 
 **🐱 My GitHub Data** 
 
-> 📦 94.4 kB Used in GitHub's Storage 
+> 📦 94.5 kB Used in GitHub's Storage 
  > 
 > 🏆 29 Contributions in the Year 2025
  > 
@@ -83,7 +83,7 @@ Shell                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 19:10:25 UTC
+ Last Updated on 17/07/2025 08:13:39 UTC
 <!--END_SECTION:waka-->
  
 </details>
