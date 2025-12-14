@@ -36,7 +36,7 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 
 > 📦 97.5 kB Used in GitHub's Storage 
  > 
-> 🏆 149 Contributions in the Year 2025
+> 🏆 163 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,10 +47,10 @@ I am curious, I enjoy learning new things and it took me some time to get to the
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                529 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.30 % 
-🌆 Daytime                1118 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.47 % 
-🌃 Evening                324 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.49 % 
-🌙 Night                  120 commits         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.74 % 
+🌞 Morning                469 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.88 % 
+🌆 Daytime                905 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.86 % 
+🌃 Evening                308 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.65 % 
+🌙 Night                  63 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.61 % 
 ```
 
 
@@ -83,7 +83,7 @@ Shell                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 19:09:30 UTC
+ Last Updated on 14/12/2025 08:12:40 UTC
 <!--END_SECTION:waka-->
  
 </details>
