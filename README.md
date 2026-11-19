@@ -1,97 +1,32 @@
 # Hey, I'm Florian 👋
 
-> I am...
->
-> - A Web Development Teacher
-> - A Fullstack Developer
+Fullstack TypeScript developer in Paris, and technical co-founder & CTO of
+**IRéeL**, a real-world-first platform to discover places and events and get
+people out together. We are pre-launch, and I am building it from scratch.
 
-> A few years ago, I...
->
-> - was a Bartender in palaces
-> - learned Knifesmithing
-> - worked as a Chiropractor
+## What I'm building
 
-I am curious, I enjoy learning new things and it took me some time to get to the right job for me. 😁
+- **IRéeL** — public site, member mobile app, pro space and API in one monorepo. Private for now.
+- **[PixelForge](https://pixel-forge.app)** — a pixel art editor that runs in the browser. [Source](https://github.com/Flow-Fly/pixel-forge).
+- **[Hell-o-ciné](https://cine.flo-a.dev)** — cinema showtimes for all of France, with posters rebuilt as photomosaics.
+- **[Formation Civique](https://flo-a.dev/formation-civique)** — a study tool for the French naturalization and residency exams.
 
-## Contact me
+## How I work
 
+I ship with AI agents inside a strict frame: one approved issue per change,
+pull requests, and quality gates in CI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-brightgreen?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/florianaube/)
+Mostly TypeScript, SvelteKit, Hono, PostgreSQL and Lit.
 
+## Before code
 
-<div>
- <a href="mailto:florian.aube@gmail.com"> <img src="https://img.shields.io/badge/gmail-Email me-black?logo=Gmail&style=for-the-badge" alt="Shield"> </a>
-</div>
+I was a bartender in palaces, learned knifesmithing and worked as a
+chiropractor. Then I spent four years at Ironhack teaching 200+ developers how
+to build and deploy fullstack apps. I am curious, I enjoy learning new things,
+and it took me some time to find the right job for me.
 
+## Say hi
 
-<details>
- <summary><b>⚡Github and WakaTime Stats</b></summary>
- 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2027%20mins-blue?style=flat)
+Open to fullstack roles in Paris.
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2034%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 197.9 kB Used in GitHub's Storage 
- > 
-> 🏆 6,447 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 52 Public Repositories 
- > 
-> 🔑 22 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                74585 commits       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.71 % 
-🌆 Daytime                258233 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.54 % 
-🌃 Evening                168356 commits      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.43 % 
-🌙 Night                  135783 commits      ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               55 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.89 % 
-TypeScript               13 repos            ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.68 % 
-Python                   3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.16 % 
-C#                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.05 % 
-Go                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.05 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Flow-Fly/Flow-Fly/main/assets/bar_graph.png)
-
-
- Last Updated on 01/11/2026 21:15:06 UTC
-<!--END_SECTION:waka-->
- 
-</details>
+[flo-a.dev](https://flo-a.dev) · [LinkedIn](https://www.linkedin.com/in/florianaube/) · [florian.aube@gmail.com](mailto:florian.aube@gmail.com)
